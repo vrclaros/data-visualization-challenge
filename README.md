@@ -60,7 +60,9 @@ The following task is advanced and therefore optional.
 
 ## Deployment
 
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+Deployed app:
+<https://vrclaros.github.io/data-visualization-challenge/>
+
 
 ## Hints
 
